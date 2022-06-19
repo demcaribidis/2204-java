@@ -10,3 +10,5 @@ jdk:
   - openjdk17
 script:
   - java --version
+  - javac hello.java
+  - java Hello
