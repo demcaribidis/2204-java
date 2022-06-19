@@ -1,0 +1,12 @@
+dist: jammy
+group: dev
+language: java
+arch:
+  - amd64
+  - arm64
+jdk:
+  - 8
+  - 11
+  - 17
+script:
+  - java --version
