@@ -5,8 +5,8 @@ arch:
   - amd64
   - arm64
 jdk:
-  - 8
-  - 11
-  - 17
+  - openjdk8
+  - openjdk11
+  - openjdk17
 script:
   - java --version
