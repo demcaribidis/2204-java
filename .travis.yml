@@ -1,11 +1,8 @@
-dist: jammy
+dist: xenial
 group: dev
 language: java
-
 jdk:
-  - openjdk8
-  - openjdk11
-  - openjdk17
+  - openjdk8.3.31
 script:
   - java -version
   - javac Hello.java
