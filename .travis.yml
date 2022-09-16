@@ -1,5 +1,5 @@
 dist: xenial
-group: dev1
+group: dev
 language: java
 jdk:
   - openjdk8.3.31
