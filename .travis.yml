@@ -1,5 +1,5 @@
 dist: xenial
-group: dev
+group: edge
 language: java
 jdk:
 - open jdk8u331
