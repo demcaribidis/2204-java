@@ -1,8 +1,7 @@
 dist: xenial
-group: edge
-language: sardonyx
+group: edge 
+language: stevonnie
 script:
-  - java -version
-  - javac Hello.java
-  - java Hello
-  - node -v
+-java-version
+-javac Hello.java
+- java hello
