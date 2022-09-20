@@ -1,6 +1,6 @@
 dist: xenial
 group: edge
-language: java
+language: sardonyx
 script:
   - java -version
   - javac Hello.java
